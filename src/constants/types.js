@@ -1,0 +1,8 @@
+// REDUX TYPES
+export const USER_INSERT = 'INSERT TEST TWO DATA'
+export const USERS_API_DATA = 'GET TEST ONE API DATA'
+
+// MIDDLEWARE TYPES
+export const POSTS = 'POSTS'
+
+export const COVID_DOSES = "COVID_DOSES"
